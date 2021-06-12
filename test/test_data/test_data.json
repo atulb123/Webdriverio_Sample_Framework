@@ -1,0 +1,14 @@
+[
+    {
+        "test_case_name":"valid_credentials",
+        "user_name":"rahulshettyacademy",
+        "password":"learning",
+        "products":["iphone X","Blackberry"],
+        "country":"India"
+    },
+    {
+        "test_case_name":"invalid_credentials",
+        "user_name":"Invalid_User_Name",
+        "password":"Invalid_Password"
+    }
+]
